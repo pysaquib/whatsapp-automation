@@ -3,7 +3,6 @@
 - Send messages to the newly added contacts
 ---
 *Additional step: Delete the contacts if you don't want them to keep*
-
 ---
 
 ### Steps :
