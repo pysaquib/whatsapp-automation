@@ -1,0 +1,22 @@
+{
+  "name": "whatsapp-automation",
+  "version": "1.0.0",
+  "description": "Sends whatsapp bulk messages and adds contacts to google account using People API",
+  "main": "sendMessage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pysaquib/whatsapp-automation.git"
+  },
+  "author": "Saquib Nasim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pysaquib/whatsapp-automation/issues"
+  },
+  "homepage": "https://github.com/pysaquib/whatsapp-automation#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
