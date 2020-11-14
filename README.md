@@ -6,3 +6,7 @@
 
 ---
 
+### Steps :
+- **Clone the repository** : *git clone https://github.com/pysaquib/whatsapp-automation/*
+- **Install dependencies** : *cd whatsapp-automation && npm install*
+- **Edit people.csv** : *Edit the csv file* (**Note : Do not change the format of the csv file. The first row should contain *Name* and *Number* in first two respective columns**)
